@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f209817-681b-433a-80e6-b85ddfd71c8e" name="Default Changelist" comment="" />
+    <list default="true" id="3f209817-681b-433a-80e6-b85ddfd71c8e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/simplemooc/courses/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simplemooc/courses/templates/courses/details.html" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/courses/templates/courses/details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simplemooc/courses/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/courses/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,22 +24,40 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/simplemooc/courses/templates/courses/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="28" column="75" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="75" />
+            <state relative-caret-position="457">
+              <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/simplemooc/courses/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/simplemooc/courses/templates/courses/details.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="516">
+              <caret line="67" column="85" lean-forward="true" selection-start-line="67" selection-start-column="85" selection-end-line="67" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/simplemooc/courses/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="480">
+              <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
               <folding>
-                <element signature="e#0#35#0" expanded="true" />
+                <element signature="e#0#54#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,11 +93,12 @@
         <option value="$PROJECT_DIR$/simplemooc/core/templates/base.html" />
         <option value="$PROJECT_DIR$/simplemooc/settings.py" />
         <option value="$PROJECT_DIR$/simplemooc/urls.py" />
-        <option value="$PROJECT_DIR$/simplemooc/courses/templates/courses/details.html" />
         <option value="$PROJECT_DIR$/simplemooc/courses/urls.py" />
-        <option value="$PROJECT_DIR$/simplemooc/courses/views.py" />
         <option value="$PROJECT_DIR$/simplemooc/courses/models.py" />
         <option value="$PROJECT_DIR$/simplemooc/courses/templates/courses/index.html" />
+        <option value="$PROJECT_DIR$/simplemooc/courses/forms.py" />
+        <option value="$PROJECT_DIR$/simplemooc/courses/templates/courses/details.html" />
+        <option value="$PROJECT_DIR$/simplemooc/courses/views.py" />
       </list>
     </option>
   </component>
@@ -96,6 +120,32 @@
             <path>
               <item name="simplemooc" type="b2602c69:ProjectViewProjectNode" />
               <item name="simplemooc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplemooc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplemooc" type="462c0819:PsiDirectoryNode" />
+              <item name="simplemooc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplemooc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplemooc" type="462c0819:PsiDirectoryNode" />
+              <item name="simplemooc" type="462c0819:PsiDirectoryNode" />
+              <item name="courses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplemooc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplemooc" type="462c0819:PsiDirectoryNode" />
+              <item name="simplemooc" type="462c0819:PsiDirectoryNode" />
+              <item name="courses" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplemooc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplemooc" type="462c0819:PsiDirectoryNode" />
+              <item name="simplemooc" type="462c0819:PsiDirectoryNode" />
+              <item name="courses" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="courses" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -140,6 +190,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1037" extended-state="4" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18421052" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -152,9 +203,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49671054" visible="true" weight="0.31509846" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50328946" side_tool="true" weight="0.33041576" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49671054" visible="true" weight="0.18380743" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50328946" side_tool="true" weight="0.18380743" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32932165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -245,16 +296,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/simplemooc/courses/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/simplemooc/courses/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -262,17 +303,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/simplemooc/courses/templates/courses/details.html">
+    <entry file="file://$PROJECT_DIR$/simplemooc/courses/templates/courses/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        <state relative-caret-position="457">
+          <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/simplemooc/courses/templates/courses/index.html">
+    <entry file="file://$PROJECT_DIR$/simplemooc/courses/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="28" column="75" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="75" />
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplemooc/courses/templates/courses/details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="67" column="85" lean-forward="true" selection-start-line="67" selection-start-column="85" selection-end-line="67" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplemooc/courses/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
