@@ -107,3 +107,17 @@ STATIC_URL = '/static/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'simplemooc', 'media')
 
 MEDIA_URL = '/media/'
+
+# E-mails
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+# EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+
+DEFAULT_FROM_EMAIL = 'Nome <azvdo.ads@gmail.com>'
+EMAIL_USE_TLS = True
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST_USER = 'azvdo.ads@gmail.com'
+EMAIL_HOST_PASSWORD = 'senha'
+EMAIL_PORT = 587
+
+
+CONTACT_EMAIL = 'azevedo_xandy@hotmail.com'
